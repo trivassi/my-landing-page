@@ -27,14 +27,17 @@ a {
   color: white;
 }
 
-.mainpic img{
+.mainpic img {
   width: 800px;
   height: 600px;
   margin: 50px;
   padding: 8px;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
    }
 
-.otherpics img{
+.otherpics img {
   width: 600px;
   height: 350px;
   margin: 10px;
@@ -42,6 +45,7 @@ a {
   border-radius: 15px;
   -webkit-border-radius: 15px;
   -moz-border-radius: 15px;
+
 }
 
 .projlist {
@@ -78,5 +82,14 @@ a {
   -moz-border-radius: 15px;
   text-align: center;
   text-overflow: clip;
+}
 
+.resume img{
+  width: 800px;
+  height: 1000px;
+  margin: 50px;
+  padding: 8px;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
 }
