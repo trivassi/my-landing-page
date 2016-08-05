@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+This website about Thomas Rivas-Siles will be his landing page. It will have a home page that has his picture. In the navigation bar up top it will include links to the "Home", "About Me, and "Projects" sections. In the Projects section it will include links to his github and repos to showcase his projects. In the "About Me" section there will be his previous work experience, education and hobbies.  
 
 ## Setup/Installation Requirements
 
@@ -19,7 +19,7 @@ No known bugs at the time.
 
 ## Support and contact details
 
-If any problems please contact the github account of trivassi. 
+If any problems please contact the github account of trivassi.
 
 ## Technologies Used
 
