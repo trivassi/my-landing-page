@@ -1,6 +1,6 @@
 # Thomas Rivas-Siles' Epicodus Website
 
-#### This website is about Thomas Rivas-Siles, an Epicodus student. Which will include differenct sections, which are an "About Me" section and a list of the projects he has worked on, 08-05-16
+#### This website is about Thomas Rivas-Siles, an Epicodus student. Which will include differenct sections, which are an "About Me" section and a list of the projects he has worked on. It is deployed on GitHub pages at the following link: "https://trivassi.github.io/my-landing-page/index.html", 08-05-16
 
 #### By Thomas Rivas-Siles
 
